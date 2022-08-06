@@ -1,0 +1,101 @@
+book_id,isbn,title,first_publication_date,rate,publication_date,total_pages,description,book_publisher_id,book_language_id,book_type_id,parent_book_id
+1,085813795-X,Fundamentals of Wavelets,NULL,1.41,1952-08-16,362,"Repair Thoracic Vertebral Disc, Perc Endo Approach",5,6,7,NULL
+2,976015378-5,Data Smart,NULL,3.99,1956-08-13,261,"Excision of Cerebral Ventricle, Open Approach, Diagnostic",2,3,4,NULL
+3,036829201-0,God Created the Integers,NULL,2.23,1946-07-21,97,"Excision of Perineum Tendon, Open Approach, Diagnostic",3,4,2,NULL
+4,283900000-8,Superfreakonomics,NULL,1.26,1981-03-12,493,NULL,1,3,3,NULL
+5,274471725-8,Orientalism,NULL,4.2,1946-06-06,139,"Dilate of Abd Aorta, Bifurc, with 3 Drug-elut, Perc Approach",4,3,2,NULL
+6,219215341-4,"Nature of Statistical Learning Theory, The",NULL,2.63,1985-11-29,218,"Occlusion L Axilla Art w Extralum Dev, Perc Endo",3,3,3,NULL
+7,250397852-5,Integration of the Indian States,NULL,1.38,1961-11-29,462,NULL,7,5,7,NULL
+8,827614572-8,"Drunkards Walk, The",NULL,1.5,1968-04-09,459,"Extirpation of Matter from Cecum, Open Approach",1,5,7,NULL
+9,297026003-4,Image Processing & Mathematical Morphology,NULL,1.22,1983-08-29,397,Change Intermittent Pressure Device on Abdominal Wall,1,1,1,NULL
+10,850675882-3,How to Think Like Sherlock Holmes,NULL,1.72,1955-08-27,403,"Supplement Thor Jt with Nonaut Sub, Open Approach",3,7,3,NULL
+11,818972007-4,Data Scientists at Work,NULL,1.57,1967-12-09,251,NULL,8,7,5,NULL
+12,490901274-5,Slaughterhouse Five,NULL,2.1,1959-04-13,282,"Neuromotor Develop Assess Neuro Head, Neck w Oth Equip",7,2,2,NULL
+13,257454562-1,Birth of a Theorem,1964-10-16,4.11,1979-11-15,460,NULL,1,6,1,NULL
+14,016000920-0,Structure & Interpretation of Computer Programs,NULL,1.51,1965-05-04,469,NULL,2,1,4,NULL
+15,856215870-4,"Age of Wrath, The",NULL,1.96,1974-01-13,385,NULL,2,7,7,NULL
+16,854895848-0,"Trial, The",NULL,3.22,1974-12-16,224,"Revision of Nonaut Sub in Mouth/Throat, Endo",6,8,2,NULL
+17,130610270-7,Statistical Decision Theory,NULL,1.94,1980-06-09,449,"Removal of Autol Sub from Kidney, Open Approach",3,2,1,NULL
+18,358472247-0,Data Mining Handbook,NULL,4.26,1962-12-16,125,NULL,10,4,1,NULL
+19,224214460-X,"New Machiavelli, The",NULL,2.53,1986-02-09,301,"Restriction of Lg Intest with Intralum Dev, Open Approach",4,8,2,NULL
+20,203745231-4,Physics & Philosophy,NULL,2.59,1943-08-28,150,"Revision of Nonaut Sub in L Tarsal, Extern Approach",9,8,4,NULL
+21,900730166-7,Making Software,NULL,1.43,1947-12-03,62,"Bypass Abd Aorta to B Ext Ilia with Autol Art, Open Approach",3,5,2,NULL
+22,883497049-7,"Analysis, Vol I",NULL,4.18,1967-02-24,239,Wheelchair Mobility Assessment using Prosthesis,2,4,4,NULL
+23,202766881-0,Machine Learning for Hackers,NULL,3.18,1969-10-04,197,"Insertion of Ext Fix into R Carpal Jt, Perc Endo Approach",10,5,1,NULL
+24,810027631-5,"Signal and the Noise, The",NULL,4.28,1946-11-13,171,"Replacement of L Mandible with Synth Sub, Perc Endo Approach",2,9,2,NULL
+25,710604901-8,Python for Data Analysis,NULL,3.02,1975-07-25,342,"Drainage of Urethra, Open Approach",2,9,1,NULL
+26,856107121-4,Introduction to Algorithms,NULL,4.38,1965-06-04,389,"Excision of Left Face Vein, Percutaneous Approach, Diagn",2,8,7,NULL
+27,110015796-4,"Beautiful and the Damned, The",NULL,1.7,1963-03-24,462,NULL,10,1,6,NULL
+28,596275107-8,"Outsider, The",NULL,2.92,1986-12-27,250,"Extirpate of Matter from L Shoulder Bursa/Lig, Open Approach",2,7,1,NULL
+29,942486424-8,"Complete Sherlock Holmes, The ",NULL,2.44,1949-04-29,292,"Drainage of R Inf Parathyroid, Perc Approach, Diagn",5,7,3,NULL
+30,345360509-8,Complete jassem zade,NULL,3.07,1946-12-02,359,NULL,3,9,2,NULL
+31,285392077-1,"Wealth of Nations, The",1854-06-03,3.91,1940-09-03,306,"Drainage of Glomus Jugulare with Drain Dev, Perc Approach",6,5,7,NULL
+32,952747161-3,"Pillars of the Earth, The",NULL,3.78,1940-12-02,187,NULL,6,3,3,NULL
+33,070441981-5,Mein Kampf,NULL,3.5,1976-05-26,238,"Bypass Esophagus to Cutaneous with Nonaut Sub, Open Approach",1,2,5,NULL
+34,380195335-1,"Tao of Physics, The",NULL,2.12,1948-05-18,158,"Revision of Radioactive Element in Lower Back, Open Approach",3,8,1,NULL
+35,812564468-7,Surely Youre Joking Mr Feynman,NULL,2.28,1977-03-12,444,NULL,1,3,3,NULL
+36,192060504-5,"Farewell to Arms, A",NULL,1.93,1970-09-19,121,NULL,3,8,4,NULL
+37,203383626-6,"Veteran, The",NULL,4.72,1967-05-27,441,NULL,1,4,5,NULL
+38,840926954-6,False Impressions,NULL,2.17,1964-06-08,194,NULL,10,6,4,NULL
+39,149523754-0,"Last Lecture, The",NULL,1.94,1979-04-12,98,"Monitoring of Venous Flow, Peripheral, Percutaneous Approach",7,7,4,NULL
+40,059460747-7,Return of the Primitive,NULL,1.62,1944-04-22,451,NULL,9,6,4,NULL
+41,880196471-4,Jurassic Park,NULL,2.58,1955-09-22,250,"Extirpation of Matter from L Shoulder Jt, Open Approach",3,9,6,NULL
+42,313228406-8,"Russian Journal, A",NULL,1.72,1978-03-02,124,"Destruction of Pudendal Nerve, Percutaneous Approach",8,2,3,NULL
+43,173267190-7,Tales of Mystery and Imagination,NULL,1.34,1941-06-24,378,Computerized Tomography (CT Scan) of Cervical Spine,8,2,7,NULL
+44,596805385-2,Freakonomics,NULL,3.08,1962-12-14,121,Plain Radiography of Right Wrist using High Osmolar Contrast,4,6,1,NULL
+45,353292369-6,"Hidden Connections, The",NULL,3.47,1985-10-15,114,"Resection of Thoracic Vertebral Disc, Open Approach",9,2,2,NULL
+46,602563424-6,"Story of Philosophy, The",NULL,3.59,1966-09-13,326,"Transfer Right Neck Muscle with Skin, Subcu, Open Approach",8,5,7,NULL
+47,067293284-9,Asami Asami,NULL,2.86,1972-11-16,95,"Occlusion of Esophagus, Open Approach",10,2,3,NULL
+48,220232321-X,Journal of a Novel,NULL,1.6,1943-11-11,195,"Revision of Int Fix in R Tarsal, Open Approach",3,6,4,NULL
+49,517313460-7,Once There Was a War,NULL,3.26,1948-03-13,418,"Supplement Thorax Lymph with Autol Sub, Perc Endo Approach",9,9,6,NULL
+50,495452393-1,"Moon is Down, The",NULL,3.18,1965-04-11,329,NULL,9,7,6,NULL
+51,178990788-8,"Brethren, The",NULL,2.78,1946-07-02,362,"Destruction of R Low Extrem Bursa/Lig, Perc Endo Approach",5,1,5,NULL
+52,600739840-4,In a Free State,NULL,2.03,1989-04-18,57,NULL,7,2,1,NULL
+53,415582016-1,Catch 22,NULL,1.85,1980-08-23,475,"Replacement of Pulmonary Valve with Synth Sub, Open Approach",5,2,3,NULL
+54,257855346-7,"Complete Mastermind, The",NULL,2.59,1985-03-27,289,NULL,7,3,3,NULL
+55,272285151-2,Dylan on Dylan,NULL,3.78,1957-10-16,203,NULL,2,10,5,NULL
+56,165933683-X,Soft Computing & Intelligent Systems,NULL,4.86,1982-06-27,182,NULL,2,10,6,NULL
+57,862927600-2,Textbook of Economic Theory,NULL,2.78,1949-08-21,107,"Supplement R Metatarsotars Jt with Nonaut Sub, Perc Approach",10,4,7,NULL
+58,227701700-0,Econometric Analysis,NULL,2.4,1960-06-15,284,NULL,10,1,7,NULL
+59,445014813-4,Learning OpenCV,NULL,2.8,1967-04-20,124,"Revision of Radioact Elem in Chest Wall, Perc Endo Approach",6,4,6,NULL
+60,413067536-2,Data Structures Using C & C++,NULL,3.25,1969-02-10,339,"Repair Left 3rd Toe, Open Approach",1,2,1,NULL
+61,470016942-7,"Computer Vision, A Modern Approach",NULL,2.91,1980-11-09,386,NULL,2,6,2,NULL
+62,945520990-X,Principles of Communication Systems,NULL,2.42,1987-02-03,139,NULL,3,7,6,NULL
+63,196436459-0,Let Us C,NULL,1.97,1941-10-27,50,"Revision of Other Device in Mediastinum, Perc Endo Approach",3,2,1,NULL
+64,711302412-2,"Amulet of Samarkand, The",NULL,4.06,1979-05-19,324,"Dilation of R Subclav Vein with Intralum Dev, Perc Approach",8,1,5,NULL
+65,248714854-3,Crime and Punishment,NULL,3.78,1982-11-26,188,"Occlusion of Left Posterior Tibial Artery, Open Approach",6,1,1,NULL
+66,573965861-6,Angels & Demons,NULL,1.46,1973-12-14,280,NULL,5,9,5,NULL
+67,824033519-5,"Argumentative Indian, The",NULL,2.93,1987-01-11,457,"Bypass R Hepatic Duct to Stomach w Intralum Dev, Perc Endo",7,10,6,NULL
+68,450201617-9,Sea of Poppies,NULL,4.59,1969-06-16,475,"Replacement of Left Ventricle with Synth Sub, Open Approach",8,3,4,NULL
+69,073782877-3,"Idea of Justice, The",NULL,3.03,1944-06-12,376,"Insertion of Oth Dev into L Pleural Cav, Perc Endo Approach",4,1,3,NULL
+70,362915940-0,"Raisin in the Sun, A",NULL,1.36,1980-05-28,97,NULL,1,6,7,NULL
+71,568785067-8,All the Presidents Men,NULL,2.84,1984-09-19,455,"Revision of Cardiac Lead in Heart, Percutaneous Approach",5,1,4,NULL
+72,622320308-X,"Prisoner of Birth, A",NULL,3.18,1944-11-17,261,"Supplement Left Buttock with Nonaut Sub, Open Approach",3,6,7,NULL
+73,527307866-0,Scoop!,NULL,1.84,1963-12-15,417,NULL,9,9,7,NULL
+74,851870409-X,Ahe Manohar Tari,NULL,3.84,1962-07-28,311,"Extirpation of Matter from Brachial Plexus, Open Approach",4,5,3,NULL
+75,033183254-2,"Last Mughal, The",NULL,4.56,1979-05-21,327,"Release Left Lower Eyelid, Percutaneous Approach",5,7,5,NULL
+76,431752155-5,Social Choice & Welfare,NULL,3.82,1953-01-21,115,NULL,6,1,4,NULL
+77,023693126-1,Radiowaril Bhashane & Shrutika,NULL,3.51,1980-06-14,191,"Supplement Right Mandible with Nonaut Sub, Open Approach",2,4,1,NULL
+78,508557712-4,Gun Gayin Awadi,NULL,4.5,1968-11-11,446,"Drainage of Facial Muscle, Percutaneous Approach, Diagnostic",10,1,6,NULL
+79,433352219-6,Aghal Paghal,NULL,1.75,1976-08-14,325,"Division of Left Hand Muscle, Perc Endo Approach",1,3,4,NULL
+80,213844238-1,Maqta-e-Ghalib,1964-01-04,3.75,1972-04-12,287,"Irrigation of Respiratory Tract using Irrigat, Perc Approach",1,9,3,NULL
+81,409631179-0,Beyond Degrees,NULL,2.76,1946-03-02,55,"Removal of Intbd Fus Dev from Cerv Jt, Perc Approach",4,2,5,NULL
+82,535288067-2,Manasa,NULL,2.81,1955-09-22,82,"Bypass Hemiazygos Vein to Up Vein w Autol Art, Open",7,7,5,NULL
+83,502754358-1,India from Midnight to Milennium,NULL,2.34,1967-11-30,68,"Drainage of Right Maxilla with Drain Dev, Perc Endo Approach",1,3,3,NULL
+84,064781703-9,"Worlds Greatest Trials, The",1919-06-09,4.09,1989-02-03,247,NULL,9,9,2,NULL
+85,828124890-4,"Great Indian Novel, The",NULL,1.18,1976-06-16,234,"Supplement Bladder Neck with Nonaut Sub, Perc Endo Approach",7,10,1,NULL
+86,747429300-5,O Jerusalem!,NULL,3.64,1949-12-29,390,NULL,2,5,3,NULL
+87,045334111-X,"City of Joy, The",NULL,1.52,1972-10-30,51,"Drainage of Greater Omentum, Percutaneous Approach, Diagn",10,1,7,NULL
+88,416062625-4,Freedom at Midnight,NULL,4.07,1941-07-20,151,NULL,9,6,6,NULL
+89,144641526-0,"Winter of Our Discontent, The",NULL,4.06,1945-01-22,54,"Repair Right Sternoclavicular Joint, External Approach",4,1,3,NULL
+90,633359936-0,On Education,NULL,4.05,1967-12-31,122,"Bypass R Axilla Art to L Up Leg Art w Autol Art, Open",3,10,2,NULL
+91,444647809-5,Free Will,NULL,1.55,1945-03-04,248,"Insert Contracept Dev in L Low Arm Subcu/Fascia, Perc",8,1,1,NULL
+92,470674383-4,Bookless in Baghdad,NULL,4.42,1978-08-10,412,"Supplement Male Perineum with Autol Sub, Perc Endo Approach",4,9,5,NULL
+93,485913982-8,"Case of the Lame Canary, The",NULL,3.79,1981-02-25,88,NULL,2,9,6,NULL
+94,482325880-0,"Theory of Everything, The",NULL,3.2,1960-10-08,291,"Removal of Synthetic Substitute from L Carpal, Perc Approach",1,6,4,NULL
+95,417796364-X,New Markets & Other Essays,NULL,1.46,1971-10-27,193,"Drainage of Thorax Lymph with Drain Dev, Perc Endo Approach",7,1,5,NULL
+96,293070788-7,Electric Universe,NULL,4.16,1981-02-06,373,"Insertion of Int Fix into L Metacarpal, Perc Endo Approach",10,2,6,NULL
+97,104036023-8,"Hunchback of Notre Dame, The",NULL,1.46,1961-07-16,456,NULL,1,9,6,NULL
+98,531700598-1,Burning Bright,NULL,3.21,1977-03-03,114,"Insertion of Intralum Dev into Splenic Vein, Perc Approach",2,7,3,NULL
+99,750506326-X,"Age of Discontuinity, The",NULL,2.58,1945-11-04,407,Plain Radiography of Prostate using Low Osmolar Contrast,6,8,6,NULL
+100,002551744-9,Doctor in the Nude,NULL,3.27,1985-12-12,118,"Release Left Common Iliac Vein, Open Approach",7,9,6,NULL
